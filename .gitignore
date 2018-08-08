@@ -1,4 +1,7 @@
-*.sublime-*
+__zdeploy-*.txt
+zcompiled
+*.sublime-workspace
+
 _notes
 
 #################
